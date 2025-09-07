@@ -20,11 +20,7 @@ A simple Python project with a graphical user interface (GUI) that allows users 
 3. Install the required library:
    ```bash
    pip install pillow
-ImageResizer/
-│
-├── main.py          # Main program file
-├── assets/          # Folder for images/icons (if any)
-├── README.md        # Project description
 
-#Author
+
+## Author
 - Abdullah Haseeb
